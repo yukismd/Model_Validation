@@ -4,7 +4,7 @@
 - [titanic](./titanic) : テーブルデータ（回帰問題）
 
 ***
-Deepchecks
+**Deepchecks**  
 Github: https://github.com/deepchecks/deepchecks  
 Document: https://docs.deepchecks.com/stable/getting-started/welcome.html
 
