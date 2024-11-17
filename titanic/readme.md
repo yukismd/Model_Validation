@@ -19,4 +19,5 @@ Result: [outputs/ModelEvaluation_DAI_defo.html](outputs/ModelEvaluation_DAI_defo
 
 **Driverless AI - Simple setting**  
 Notebook: [ModelEvaluation_DAI_simp.ipynb](./ModelEvaluation_DAI_simp.ipynb)  
-Result: [outputs/ModelEvaluation_DAI_simp.html](ModelEvaluation_DAI_simp.html)
+Result: [outputs/ModelEvaluation_DAI_simp.html](outputs/ModelEvaluation_DAI_simp.html)
+
