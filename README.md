@@ -1,7 +1,9 @@
 # Model Validation
 モデル検証に関するトピック
 
-- [titanic](./titanic) : テーブルデータ（回帰問題）
+- [titanic](./titanic) : テーブルデータ[分類問題]
+- [walmart_small](./walmart_small) : 時系列データ
+
 
 ***
 **Deepchecks**  
