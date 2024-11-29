@@ -1,9 +1,9 @@
 # Model Validation
 モデル検証に関するトピック
 
-- [titanic](./titanic) : テーブルデータ[分類問題]
-- [walmart_small](./walmart_small) : 時系列データ
-
+- [titanic](./titanic) : Deepchecks - テーブルデータ[分類問題]
+- [walmart_small](./walmart_small) : Deepchecks - 時系列データ
+- [titanic_size_dependency] : Size Dependency確認
 
 ***
 **Deepchecks**  
