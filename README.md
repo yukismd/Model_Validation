@@ -3,7 +3,7 @@
 
 - [titanic](./titanic) : Deepchecks - テーブルデータ[分類問題]
 - [walmart_small](./walmart_small) : Deepchecks - 時系列データ
-- [titanic_size_dependency] : Size Dependency確認
+- [titanic_size_dependency](./titanic_size_dependency) : Size Dependency確認
 
 ***
 **Deepchecks**  
